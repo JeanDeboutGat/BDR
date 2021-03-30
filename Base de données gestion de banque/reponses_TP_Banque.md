@@ -2,8 +2,8 @@
 @Author: Jean Debout GATARI
 ---------------------------
 
-Questions-Reponses-TP-Banque
-----------------------------
+Requêtes SQL du TP-Banque
+---------------------------- 
 
 
 
