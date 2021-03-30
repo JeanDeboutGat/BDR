@@ -2,7 +2,7 @@
 @Author: Jean Debout GATARI
 ---------------------------
 
-Questions-Reponses-TP-Bière
+Requêtes SQL du TP Bière
 ----------------------------
 
 
