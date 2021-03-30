@@ -4,7 +4,7 @@
 
 
 
-Ici se trouvent les requêtes correspondantes aux questions posées dans le TP4 Video Club 3
+Requêtes SQL du TP Video Club 3
 -------------------------------------------------------------------------------------------
 
 

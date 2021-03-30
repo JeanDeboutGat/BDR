@@ -4,8 +4,8 @@
 
 
 
-Ici se trouvent les requêtes correspondantes aux questions posées dans le TP2 Video Club 2
------------------------------------------------------------------------------------------------
+Requêtes SQL du TP2 Video Club 2
+--------------------------------
 
 Q1.  Numéro des dvd du film ’Taken’
 R:   SELECT ndvd FROM dvd JOIN film on dvd.nfilm=film.nfilm where titre = 'Taken';

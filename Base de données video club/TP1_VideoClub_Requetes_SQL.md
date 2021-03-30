@@ -4,7 +4,7 @@
 
 
 
-Ici se trouvent les requêtes correspondantes aux questions posées dans le TP1 Video Club Simple
+Requêtes SQL du TP1 Video Club Simple
 -----------------------------------------------------------------------------------------------
 
 
